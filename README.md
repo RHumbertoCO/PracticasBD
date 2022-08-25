@@ -1,4 +1,4 @@
 # PracticasBD
 Practicas Big Data
 
-//PRACTICAS c#
+//PRACTICAS BD CON GIT
